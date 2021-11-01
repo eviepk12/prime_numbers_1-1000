@@ -1,3 +1,5 @@
+// Print out odd numbers in a triangle pattern
+
 #include <iostream>
 
 using std::cout;
